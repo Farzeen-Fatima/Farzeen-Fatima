@@ -11,7 +11,7 @@
       📫 How to reach me: <a href="mailto:letfarzeen06@gmail.com">letfarzeen06@gmail.com</a>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="100%" alt="Coding GIF">
+      <img src="downlaod.gif" width="100%" alt="Coding GIF">
     </td>
   </tr>
 </table>
